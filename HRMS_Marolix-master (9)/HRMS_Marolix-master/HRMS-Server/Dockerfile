@@ -21,6 +21,6 @@ RUN pip install --upgrade pip && \
 COPY . /apps
 
 # Collect static files
-CMD ["sh", "docker.sh"]
+CMD ["sh", "dockerscript.sh"]
 EXPOSE 8000
 
