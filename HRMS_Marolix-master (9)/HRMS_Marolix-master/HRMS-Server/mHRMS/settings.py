@@ -162,7 +162,7 @@ EMAIL_USE_SSL = False
 DEFAULT_FROM_EMAIL = 'hrms.marolix@gmail.com'
 
 # Secret key (ensure this is kept secure and unique for production)
-SECRET_KEY = 'django-insecure-#cedo6k@mkco
+SECRET_KEY = 'django-insecure-#cedo6k@mkcoy%!r2$wy$8h-(9x&ev+v%tvx+-k-o%)2jt$fb^'
 
 
 
